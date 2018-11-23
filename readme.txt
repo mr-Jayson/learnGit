@@ -4,3 +4,4 @@ git is very well proglam
 i like use this proglam
 git tracks changes of files.
 second operation
+i think is wrong
